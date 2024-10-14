@@ -1,3 +1,4 @@
+
 function reverseString(word) {
 
   const wordArray = word.split("");
